@@ -1,0 +1,31 @@
+body { background-color: #FFFFFF;
+    color: #FF3399;
+    font-family: Arial, Verdana, sans-serif; }
+h1 { background-color: #FFFFFF;
+  color: #FF3399;
+  line-height: 200%;
+  font-family: "Times New Roman"; 
+  text-indent: 1em;
+  text-align: center;
+  font-size: 3em;
+  text-shadow: 3px 3px 5px #000000; }
+h2 { background-color: #FFFFFF;
+  color: #FF3399;
+   font-family: "Times New Roman";
+   text-align: center; }
+nav { font-weight: bold; 
+   font-size: 1.25em;
+    word-spacing: 1em; }
+nav a { text-decoration: none;
+     font-family: "Times New Roman";
+     color: #000000; }
+p { font-size: .90em;
+  font-family: "Times New Roman";
+  color: #FF6699; }
+ul { font-size: .90em;
+    text-indent: 1em;
+    font-family: "Times New Roman";
+    color: #FF6699; }
+footer { color: #FF6699;
+      font-size: .75em;
+      font-style: italic; }
